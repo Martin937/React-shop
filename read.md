@@ -21,7 +21,7 @@
 21. git push -u origin master Заливка на github
 22. git pull Обновление всех связей и изменений
 23. git push Заливка на github
-24.
+24. npm i gh-pages -D для github
 25. Устанавливаем и запускаем react
 26. npx create-react-app name-folder
 27. npx create-react-app . для создания в текущей папке

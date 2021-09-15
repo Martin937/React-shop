@@ -10,7 +10,13 @@ const Header = () => {
         </a>
         <ul className="nav-list">
           <li>
-            <a href="!#">Repo</a>
+            <a
+              href="https://github.com/Martin937/React-shop"
+              targrt="blank"
+              rel="noreferrer"
+            >
+              Repo
+            </a>
           </li>
         </ul>
       </div>
