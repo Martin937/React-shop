@@ -15,7 +15,7 @@
 15.
 16.
 17. Создаём репозиторий на GITHUB и связываем его с проектом
-18. https://github.com/Martin937/React-shop.git
+18.
 19. git remote add origin https://github.com/Martin937/React-shop.git Прописываем путь к github
 20. git remote set-url origin https://github.com/Martin937/React-shop.git Если нужно изменить уже существующий
 21. git push -u origin master Заливка на github
