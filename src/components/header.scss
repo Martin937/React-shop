@@ -1,0 +1,22 @@
+.nav {
+  background-color: aquamarine;
+  padding: 1em;
+  a {
+    text-decoration: none;
+    color: #000;
+    &:hover {
+      color: red;
+    }
+  }
+  &-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &-logo {
+    font-size: 2em;
+  }
+  &-list {
+    list-style: none;
+  }
+}
